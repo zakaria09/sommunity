@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     description: "Connecting Somali's in Leeds and West Yorkshire",
     images: [
       {
-        url: "/logo.jpg", // No need to use public/ in path
+        url: "/sommunity-logo.jpg", // No need to use public/ in path
         width: 1200,
         height: 630,
         alt: "OG Image Alt Text",
