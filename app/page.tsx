@@ -3,7 +3,7 @@ import logo from '@/public/sommunity-logo.jpg'
 
 export default function Home() {
   return (
-    <section>
+    <section className="overflow-hidden">
       <div className="h-screen">
         <div className="flex justify-center h-full">
           <div className="bg-white px-6 py-8 self-center rounded-lg shadow-md">
